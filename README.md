@@ -54,7 +54,7 @@ catkin_make
 clone the repository 
 
 ```
-git clone -b action https://github.com/vikasreddy636/rt2_assignment1.git
+git clone -b action https://github.com/celestiegladys/rt2_assignment1.git
 ```
 
 Refresh the workspace using
