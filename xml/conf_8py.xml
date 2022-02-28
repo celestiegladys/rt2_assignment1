@@ -26,16 +26,16 @@
 <codeline lineno="16"><highlight class="normal">sys.path.insert(0,<sp/>os.path.abspath(</highlight><highlight class="stringliteral">&apos;.&apos;</highlight><highlight class="normal">))</highlight></codeline>
 <codeline lineno="17"><highlight class="normal"></highlight></codeline>
 <codeline lineno="18"><highlight class="normal">subprocess.call(</highlight><highlight class="stringliteral">&apos;doxygen<sp/>Doxyfile.in&apos;</highlight><highlight class="normal">,<sp/>shell=</highlight><highlight class="keyword">True</highlight><highlight class="normal">)</highlight></codeline>
-<codeline lineno="19"><highlight class="normal"></highlight><highlight class="comment">#<sp/>--<sp/>Project<sp/>information<sp/>-----------------------------------------------------</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="20"><highlight class="normal"></highlight></codeline>
+<codeline lineno="19"><highlight class="normal"></highlight></codeline>
+<codeline lineno="20"><highlight class="normal"></highlight><highlight class="comment">#<sp/>--<sp/>Project<sp/>information<sp/>-----------------------------------------------------</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="21"><highlight class="normal"></highlight></codeline>
 <codeline lineno="22"><highlight class="normal"></highlight></codeline>
 <codeline lineno="23"><highlight class="normal">project<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;rt2_assignment1&apos;</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="24"><highlight class="normal">copyright<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;2022,<sp/>Ginne<sp/>Vikas<sp/>Reddy&apos;</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="25"><highlight class="normal">author<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;Ginne<sp/>Vikas<sp/>Reddy&apos;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="24"><highlight class="normal">copyright<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;2022,<sp/>celestie<sp/>Gladys&apos;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal">author<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;celestie<sp/>Gladys&apos;</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="26"><highlight class="normal"></highlight></codeline>
 <codeline lineno="27"><highlight class="normal"></highlight><highlight class="comment">#<sp/>The<sp/>full<sp/>version,<sp/>including<sp/>alpha/beta/rc<sp/>tags</highlight><highlight class="normal"></highlight></codeline>
-<codeline lineno="28"><highlight class="normal">release<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;09/02/2022&apos;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal">release<sp/>=<sp/></highlight><highlight class="stringliteral">&apos;1.0&apos;</highlight><highlight class="normal"></highlight></codeline>
 <codeline lineno="29"><highlight class="normal"></highlight></codeline>
 <codeline lineno="30"><highlight class="normal"></highlight></codeline>
 <codeline lineno="31"><highlight class="normal"></highlight><highlight class="comment">#<sp/>--<sp/>General<sp/>configuration<sp/>---------------------------------------------------</highlight><highlight class="normal"></highlight></codeline>
